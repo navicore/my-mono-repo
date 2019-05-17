@@ -1,4 +1,4 @@
-Following Tutorial for RN with TSX
+Following Tutorial for RN Web with TSX
 =======
 
 https://www.youtube.com/watch?v=_CBYbEGvxYY
